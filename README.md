@@ -1,6 +1,6 @@
 <h2 align="left">Full Stack Software Developer</h2>
 
-Full Stack Developer. I was born in 2001 in Samsun, Turkey. I focus on web technologies, particularly React and Next.js. I gained experience working at Mirbax Digital Transformation Agency. I continuously learn and improve myself through various projects. I am currently looking for new job opportunities and open to new challenges.
+Full Stack Developer. I was born in 2001 in Samsun, Turkey. I focus on web technologies, particularly React and Node.js. I gained experience working at Mirbax Digital Transformation Agency. I continuously learn and improve myself through various projects. I am currently looking for new job opportunities and open to new challenges.
 
 
 <h3 align="left">Connect with me:</h3>
