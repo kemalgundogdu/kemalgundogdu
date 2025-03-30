@@ -1,6 +1,6 @@
-<h2 align="left">Full Stack Software Developer</h2>
+<h2 align="left">Kemal Gundogdu</h2>
 
-Full Stack Developer. I focus on web technologies, particularly React and Node.js. I gained experience working at Mirbax Digital Transformation Agency. I continuously learn and improve myself through various projects. I am currently looking for new job opportunities and open to new challenges.
+I'm Backend Developer. I focus on web technologies, particularly React and Node.js. I gained experience working at Mirbax Digital Transformation Agency. I continuously learn and improve myself through various projects. I am currently looking for new job opportunities and open to new challenges.
 
 
 <h3 align="left">Connect with me:</h3>
