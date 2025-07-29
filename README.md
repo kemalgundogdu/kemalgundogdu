@@ -1,6 +1,6 @@
 <h2 align="left">Kemal Gundogdu</h2>
 
-I'm Backend Developer. I focus on web technologies, particularly React and Node.js. I gained experience working at Mirbax Digital Transformation Agency. I continuously learn and improve myself through various projects. I am currently looking for new job opportunities and open to new challenges.
+As the founder of Involop, I focus on project management and creating innovative solutions with modern technologies. Prioritizing teamwork, we aim to develop projects that add value to the industry. Leveraging our expertise in project management and technologies like Node.js, we design scalable and robust systems. My motivation is to lead projects that create value through technology.
 
 
 <h3 align="left">Connect with me:</h3>
